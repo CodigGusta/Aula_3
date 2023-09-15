@@ -94,3 +94,63 @@
 
 # print('Geralmente as pessoas gostam de estar com alguem',usuario1, 'porque pessoas assim estão sempre', usuario2, 'mas no final das contas essas pessoas estão sempre',usuario3)
  
+
+
+# # n12 = 10
+
+# if(n12 >= 10):
+# print('é maior') #tue
+
+# else:
+#   print('é menor')#false
+
+
+# senha_correta = 321
+
+# senha = input('digite a senha - ')
+
+# if(senha == senha_correta):
+
+#   print('aceeso')
+# else:
+    
+#     print('ta errado')
+
+
+#1 - Crie uma condição para comparar idades: 45 e 18
+
+# i1 = 45
+# i2 = 18
+# if(i1 > i2):
+#     print('é maior')
+
+# else:
+#     print('é menor')
+
+
+#2 - Crie um sistema para permitir a verificação de menores em um show
+
+# sua_idade = int(input("digite sua idade - "))
+
+# if(sua_idade > 18):
+#     print('acesso permitido')
+
+# else:
+#     print('acesso negado')
+
+
+#Crie um algoritmo que permita a entrada de 3 notas de alunos, utilize o bloco de código if()** 
+#para verificar se o aluno passou.**    
+
+# 
+
+
+# l1 = 10
+# l2 = 'hello'
+# print(l1, l2)
+
+# print(f'{l1}{l2}')
+
+# print('hello %s %s'%(l1,l2))
+
+# print('hello {}{}'.format(l1,l2))
